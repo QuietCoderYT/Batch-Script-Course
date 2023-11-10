@@ -1,0 +1,37 @@
+[Helping commands]
+help -- /?
+whoami
+systeminfo
+
+[Cool tricks]
+prompt <text>
+tree
+title
+color
+echo
+
+[Navigation]
+dir
+cd
+cd..
+E:
+
+[File manipulation]
+md
+rmdir
+echo.hello>example.txt
+del
+ren
+copy
+move
+xcopy
+
+[Default variables]
+%cd%
+%date%
+%time%
+%path%
+
+[----]
+start
+exit
