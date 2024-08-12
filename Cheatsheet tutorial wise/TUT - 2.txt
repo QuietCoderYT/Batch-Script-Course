@@ -1,0 +1,10 @@
+@echo off / @
+echo
+
+pause
+
+:section
+goto
+
+rem
+::
